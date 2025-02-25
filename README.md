@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Itahari, Nepal</h3>
 
-- 🔭 I’m currently working on **building my skills.**
+- 🔭 I’m currently working on **learning and building my skills.**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, JAVA, Python, MySQL**
 
